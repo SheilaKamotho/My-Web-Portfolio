@@ -1,0 +1,39 @@
+img {
+    border-radius: 300px;
+    width: 300px;
+    height: 300px;
+    float: left;
+    }
+  .description {
+    float:left;
+    width: 300px;
+    color: black;
+    background-color: moccasin;
+    border: 2px moccasin;
+  }
+  .about {
+    width: 75%;
+    float:right;
+    color: black;
+  }
+  h2 {
+    color: teal;
+  }
+  h3 {
+    color: teal;
+    background-color: moccasin;
+  }
+  h1 {
+    font-size: 55px;
+    color: teal;
+  }
+  .name {
+    float: left;
+    color: teal;
+    width: 75%;
+    line-height: 100px;
+  }
+  body {
+    background-color: gainsboro;
+  }
+  
